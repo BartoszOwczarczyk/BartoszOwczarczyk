@@ -2,6 +2,7 @@
 - 👀 I’m interested in cryptocurrency, finances and programming.
 - 🌱 I’m currently learning JS and git.
 - Link to my portfolio website https://bartoszowczarczyk.github.io/PortfolioRep/
+- ![test-image](https://user-images.githubusercontent.com/98360369/173226775-84fbd4f4-e08b-44af-8218-c9f839bbdf4c.png)
 
 
 <!---
